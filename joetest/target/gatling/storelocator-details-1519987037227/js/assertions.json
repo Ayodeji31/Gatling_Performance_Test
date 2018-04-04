@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.dunelm.StoreLocator_Details",
+  "simulationId": "storelocator-details",
+  "start": 1519987037227,
+  "description": "",
+  "scenarios": ["Store Details"],
+  "assertions": [
+
+  ]
+}

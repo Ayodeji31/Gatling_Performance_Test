@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.dunelm.OMS",
+  "simulationId": "oms",
+  "start": 1519834138362,
+  "description": "",
+  "scenarios": ["Promotions"],
+  "assertions": [
+
+  ]
+}

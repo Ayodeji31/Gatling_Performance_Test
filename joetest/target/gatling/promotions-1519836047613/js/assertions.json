@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.dunelm.Promotions",
+  "simulationId": "promotions",
+  "start": 1519836047613,
+  "description": "",
+  "scenarios": ["Promotions"],
+  "assertions": [
+
+  ]
+}
